@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <title>Tamil News Classifier</title>
+
+</head>
+<body>
+    <div class="container text-center bg-gradient-danger">
+
+        <br><br><br>
+    <h1 class="font-weight-bolder display-3">Tamil News Classifier</h1>
+    <br><br>
+    <form action="{% url 'results' %}">
+        <input class="form-control form-control-lg border-0" required type="text" name='news' placeholder="enter the text">
+        <br>
+        <button type="submit" class="btn btn-primary">Classify</button>
+    
+    </form><br>
+    <h6>powered by AI</h6>
+    
+{% block content %} {% endblock %}
+
+
+</div>
+</body>
+</html>
