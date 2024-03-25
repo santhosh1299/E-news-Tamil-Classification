@@ -9,7 +9,7 @@ Tamil, an ancient classical language, holds a profound literary heritage dating 
 ## Linguistic Reach
 With over 70 million native speakers primarily in southern India and Sri Lanka, Tamil resonates deeply within its linguistic community.
 
-# Project Aim: Revolutionizing Content Curation
+## Project Aim: Revolutionizing Content Curation
 
 ## Identifying the Hurdles
 Tamil news blogs and text-based platforms grapple with content curation complexities amidst a plethora of crowdsourced articles.
@@ -23,7 +23,7 @@ The LSTM model efficiently categorizes text data, offering a streamlined approac
 ## Model Evaluation
 The LSTM model achieved an impressive ROC AUC score of 85%, indicating its efficacy in classifying Tamil text accurately.
 
-# Deployment
+## Deployment
 This project was deployed using Django, ensuring seamless integration and robust performance in real-world applications.
 
 # Future Prospects and Impact
