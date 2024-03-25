@@ -1,6 +1,10 @@
 # Tamil News Articles Content Curation
 
 
+<img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_image.jpg" alt="Admittance Rate" width="500" height="450">
+
+
+
 ## Exploring the Tamil Language Landscape
 
 ## Embracing a Cultural Legacy
