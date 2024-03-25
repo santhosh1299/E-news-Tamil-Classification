@@ -3,7 +3,7 @@
 
 <img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_image.jpg" alt="" width="500" height="350">
 
-<img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_web_app.png" alt="" width="500" height="350">
+<img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_web_app.png" alt="" width="600" height="350">
 
 
 ## Exploring the Tamil Language Landscape
