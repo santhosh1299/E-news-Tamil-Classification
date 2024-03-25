@@ -1,8 +1,9 @@
 # Tamil News Articles Content Curation
 
 
-<img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_image.jpg" alt="Admittance Rate" width="500" height="450">
+<img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_image.jpg" alt="" width="500" height="350">
 
+<img src="https://github.com/santhosh1299/news_tamil_classification/blob/master/tamil_web_app.png" alt="" width="500" height="350">
 
 
 ## Exploring the Tamil Language Landscape
@@ -29,6 +30,7 @@ The LSTM model achieved an impressive ROC AUC score of 85%, indicating its effic
 
 ## Deployment
 This project was deployed using Django, ensuring seamless integration and robust performance in real-world applications.
+
 
 ## Future Prospects and Impact
 Implementing the LSTM-based solution promises to elevate the efficiency and accuracy of content curation, fortifying Tamil digital content's accessibility and credibility.
