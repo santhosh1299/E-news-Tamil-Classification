@@ -26,7 +26,7 @@ The LSTM model achieved an impressive ROC AUC score of 85%, indicating its effic
 ## Deployment
 This project was deployed using Django, ensuring seamless integration and robust performance in real-world applications.
 
-# Future Prospects and Impact
+## Future Prospects and Impact
 Implementing the LSTM-based solution promises to elevate the efficiency and accuracy of content curation, fortifying Tamil digital content's accessibility and credibility.
 
 
